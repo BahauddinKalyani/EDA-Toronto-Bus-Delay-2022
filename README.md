@@ -20,6 +20,13 @@ The Jupyter Notebook in this repository provides an in-depth analysis of various
 - [Data](ttc-bus-delay-data-2022.csv): Sample dataset used for the analysis.
 - [README.md](README.md): This file, providing an overview of the repository.
 
+## Kaggle Link
+
+This analysis is also available on Kaggle. You can access the Kaggle project by following this [link](https://www.kaggle.com/code/bahauddinkalyani/eda-on-ttc-bus-delay-data-2022).
+
+Feel free to explore, contribute, and provide feedback!
+
+
 ## Usage
 
 1. Clone the repository to your local machine:
