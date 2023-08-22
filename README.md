@@ -32,4 +32,4 @@ Feel free to explore, contribute, and provide feedback!
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ttc-delay-analysis.git
+   git clone https://github.com/BahauddinKalyani/EDA-Toronto-Bus-Delay-2022.git
